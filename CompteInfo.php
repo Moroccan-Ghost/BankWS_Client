@@ -12,7 +12,7 @@ if(isset($_POST['compteId'])){
 ?>
 <html>
 <header>
-    <title>Euro To MAD Converter</title>
+    <title>Single Account</title>
 </header>
 <body>
 <form action="CompteInfo.php" method="post">

@@ -6,7 +6,7 @@ if(isset($_POST['submit'])){
 ?>
 <html>
 <header>
-    <title>Euro To MAD Converter</title>
+    <title>All accounts</title>
 </header>
 <body>
 <form action="AllComptes.php" method="post">
